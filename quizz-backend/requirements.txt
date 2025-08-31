@@ -1,0 +1,5 @@
+fastapi[standard]
+langchain
+langchain-core
+langchain_groq
+python-dotenv~=1.1.1
